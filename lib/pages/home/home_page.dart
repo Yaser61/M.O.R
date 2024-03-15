@@ -25,7 +25,7 @@ class _HomePageState extends BaseStatefulState<HomePage> {
       body: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
-          Text("First commit"),
+          Text("Test yaser"),
         ],
       ),
     );
